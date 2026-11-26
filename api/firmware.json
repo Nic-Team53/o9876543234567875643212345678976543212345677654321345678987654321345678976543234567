@@ -1,0 +1,14 @@
+{
+  "version": "1.1.2",
+  "bin": "https://raw.githubusercontent.com/Nic-Team53/o9876543234567875643212345678976543212345677654321345678987654321345678976543234567/refs/heads/main/firmware/NMP.ino.bin",
+  "sha256": "63d89a61021d23dbc6687b94d6d1fb18ad16b48b1fbd3686eeaecc501cd1b009",
+  "desc": "add update camera",
+
+
+  "cam": {
+    "version": "1.1.1",
+    "bin": "https://nmediaplayer.netlify.app/firmware/nmp_cam.ino.bin",
+    "sha256": "538edfa9686d711b71af91064e582b823f5262200b2bf9802e9ca4f93697818d",
+    "desc": "new update"
+  }
+}
