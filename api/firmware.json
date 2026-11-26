@@ -1,8 +1,8 @@
 {
   "version": "1.1.2",
   "bin": "https://raw.githubusercontent.com/Nic-Team53/o9876543234567875643212345678976543212345677654321345678987654321345678976543234567/refs/heads/main/firmware/NMP.ino.bin",
-  "sha256": "80aaba35760c9e4faf65660718455892de1e5a1c5dade3ae8861091843d46371",
-  "desc": "add update camera",
+  "sha256": "9eeb5b8d051798a53524d4c4d7f91c8dbad70361213dc78b94523e8d82ec46fe",
+  "desc": "add app reader and fix bugs",
 
 
   "cam": {
